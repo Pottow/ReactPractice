@@ -6,9 +6,9 @@ function Home(){
   return (
     <div>
       <nav>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/contact">Contact</Link>
+        <Link to="/ReactPractice/">Home</Link>
+        <Link to="/ReactPractice/about">About</Link>
+        <Link to="/ReactPractice/contact">Contact</Link>
       </nav>
       <h1>My website</h1>
       <h1>learn react</h1>
@@ -20,9 +20,9 @@ export function About(){
   return (
     <div>
       <nav>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/contact">Contact</Link>
+        <Link to="/ReactPractice/">Home</Link>
+        <Link to="/ReactPractice/about">About</Link>
+        <Link to="/ReactPractice/contact">Contact</Link>
       </nav>
       <h1>Aboiut us</h1>
       <Outlet />
@@ -42,9 +42,9 @@ export function Contact(){
   return (
     <div>
       <nav>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/contact">Contact</Link>
+        <Link to="/ReactPractice/">Home</Link>
+        <Link to="/ReactPractice/about">About</Link>
+        <Link to="/ReactPractice/contact">Contact</Link>
       </nav>
       <h1>Contact us</h1>
     </div>
