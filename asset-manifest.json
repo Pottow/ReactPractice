@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactPractice/static/css/main.073c9b0a.css",
-    "main.js": "/ReactPractice/static/js/main.4f8eaa9a.js",
+    "main.css": "/ReactPractice/static/css/main.c701e2df.css",
+    "main.js": "/ReactPractice/static/js/main.cdc431d3.js",
     "static/js/787.b701888c.chunk.js": "/ReactPractice/static/js/787.b701888c.chunk.js",
+    "static/media/pexels-sl-wong-1023953.jpg": "/ReactPractice/static/media/pexels-sl-wong-1023953.e7cfa02c2e4d51ca6213.jpg",
+    "static/media/pexels-secret-garden-931162.jpg": "/ReactPractice/static/media/pexels-secret-garden-931162.22278d6daa5afe4b7e04.jpg",
     "index.html": "/ReactPractice/index.html",
-    "main.073c9b0a.css.map": "/ReactPractice/static/css/main.073c9b0a.css.map",
-    "main.4f8eaa9a.js.map": "/ReactPractice/static/js/main.4f8eaa9a.js.map",
+    "main.c701e2df.css.map": "/ReactPractice/static/css/main.c701e2df.css.map",
+    "main.cdc431d3.js.map": "/ReactPractice/static/js/main.cdc431d3.js.map",
     "787.b701888c.chunk.js.map": "/ReactPractice/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4f8eaa9a.js"
+    "static/css/main.c701e2df.css",
+    "static/js/main.cdc431d3.js"
   ]
 }
