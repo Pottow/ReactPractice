@@ -11,12 +11,8 @@ root.render(
     <BrowserRouter>
       <Routes>
         <Route path="/ReactPractice" element={<App />} />
-        <Route path="/ReactPractice/about" element={<About />} >
-          <Route path = "history" element={<History />}/>
-        </Route>
-        <Route path="/ReactPractice/contact" element={<Contact />} />
       </Routes>
-    </BrowserRouter>
+      </BrowserRouter>
   </React.StrictMode>
 );
 
