@@ -24,12 +24,12 @@ const Header = () => {
                 </p>
                 <div className="header-cta">
                     <Button 
-                    text={"Get Started"} 
+                    text={"Start imagining flowers"} 
                     btnClass= {"btn-dark"} 
                     href={"#"}>
                     </Button>
                     <Button 
-                    text={"Get Started"} 
+                    text={"Start smelling flowers"} 
                     btnClass= {"btn-light"} 
                     href={"#"}>
                     </Button>
